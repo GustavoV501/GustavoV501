@@ -1,4 +1,4 @@
-<h1 align="center">hi Gustavo Villegas</h1>
+<h1 align="center">Gustavo Villegas</h1>
 
 
 - 🔭 Trabajo como ingeniero de calidad en Salesforce, tengo experiencia en el área de calidad de software y desarrollo.
